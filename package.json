@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Rachid Lafriakh",
+	"description": "FNPM my learning journey with Node.js",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
