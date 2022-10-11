@@ -3,8 +3,16 @@
 	"version": "1.2.0",
 	"author": "Rachid Lafriakh",
 	"description": "FNPM my learning journey with Node.js",
-	"keywords": ["npm", "node", "js", "learning", "FNPM", "freecodecamp"],
+	"keywords": [
+		"npm",
+		"node",
+		"js",
+		"learning",
+		"FNPM",
+		"freecodecamp"
+	],
 	"dependencies": {
+		"@freecodecamp/example": "^1.1.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
